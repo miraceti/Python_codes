@@ -52,4 +52,6 @@ for col in range(6, ws.max_column+1):
     for row in range (1, last_cell):
       ws.cell(column=col, row=row).number_format = '# ### ##0.00 €'
 
+ws.column_dimensions["F"].width = 20
+
 wb.save("test1.xlsx")
