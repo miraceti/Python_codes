@@ -4,7 +4,7 @@ from openpyxl.styles import Font
 from openpyxl.workbook import Workbook
 from openpyxl import load_workbook
 
-
+#on execute en msdos : python test1.py test1.xlsx    : ceci execute le script sur le xls
 script_name = sys.argv[0]
 param = sys.argv[1]
 
@@ -45,5 +45,11 @@ ws["B3"].number_format ='# ##0.00 €'
 
 ws["C3"].number_format ='# ##0.00 €'
 ws["D3"].number_format ='# ### ##0.00 €'
+
+#pour toute la colonne F
+last_cell = 100
+for col in range(6, ws.max_column+1):
+    for row in range (1, last_cell):
+      ws.cell(column=col, row=row).number_format = '# ### ##0.00 €'
 
 wb.save("test1.xlsx")
