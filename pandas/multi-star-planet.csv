@@ -1,0 +1,87 @@
+System;Link;Star/Planet;Discovery;Spectral Type;Distance  [pc];a_Triple or Quadruple [au];a_Binary1 [au];a_Binary2 [au];Number of Planets;Number of Stars;m1 [m_sun];m2 [m_sun];m3  [m_sun];m4  [m_sun];Comments;Minimum Mass [M_J];Semi-major axis [au];Orbital Period [d];Eccentricity;Argument of Perihel [deg];Radius [R_J];Inclination [deg];Detection Method
+Fomalhaut Ab + TW PsA;http://exoplanet.eu/catalog/fomalhaut_b/;0;2008-2012;A3Va / K4V / M4V;7.6;57400.0;;;1;3;1.92;0.81;0.18;;C=M dwarf;;;;;;;;
+Fomalhaut b;http://exoplanet.eu/catalog/fomalhaut_b/;1;;;;;;;;;;;;;;2.0;115.0;320000.0;0.11;;;;imaging
+HD 2638 + HD 2567;http://exoplanet.eu/catalog/hd_2638_b/;0;2005;G5 / M1V / G0;53.71;44000.0;28.0;;1;3;0.87;0.46;;;;;;;;;;;
+HD 2638 b;http://exoplanet.eu/catalog/hd_2638_b/;1;;;;;;;;;;;;;;0.48;0.044;3.438;0.041;126.9;1.04;;radial velocity
+V 1298 Tau Ab-e+BC;http://exoplanet.eu/catalog/v_1298_tau_b/;0;2019;K1 / K7 / ?;108.5;14795.0;;;4;3;1.1;0.66;;;;;;;;;;;
+V 1298 Tau b;http://exoplanet.eu/catalog/v_1298_tau_b/;1;;;;;;;;;;;;;;2.20;0.169;24.140;0.290;85.0;0.916;89.0;transit
+V 1298 Tau c;http://exoplanet.eu/catalog/v_1298_tau_c/;1;;;;;;;;;;;;;;;0.083;8.2496;0.430;92.0;0.499;88.49;transit
+V 1298 Tau d;http://exoplanet.eu/catalog/v_1298_tau_d/;1;;;;;;;;;;;;;;;0.108;12.403;0.210;88.0;0.572;89.04;transit
+V 1298 Tau e;http://exoplanet.eu/catalog/v_1298_tau_e/;1;;;;;;;;;;;;;;;0.308;60.0;0.570;91.0;0.78;89.4;transit
+WASP-8 AbB+C;http://exoplanet.eu/catalog/wasp-8_b/;0;2008-2014;G6 / ? / ?;87.0;12350.0;348.0;;2;3;1.033;0.34;;;planet w. retrograde orbit;;;;;;;;
+WASP-8 b;http://exoplanet.eu/catalog/wasp-8_b/;1;2008;;;;;;;;;;;;;2.244;0.08;8.158;0.31;274.27;1.083;88.55;transit
+WASP-8 c;http://exoplanet.eu/catalog/wasp-8_c/;1;2014;;;;;;;;;;;;;;;;;;;;
+Prox Cen+alf Cen AB;http://exoplanet.eu/catalog/proxima_cen_b/;0;2016;G2V / K1V / M5.5V;1.30;8700.0;;;1;3;1.1;0.934;0.12;;Triplestar: Kervella et al. 2016;;;;;;;;
+Prox Cen b;http://exoplanet.eu/catalog/proxima_cen_b/;1;2016;;;;;;;;;;;;calculated temperature 216 K;0.004;0.0485;11.186;0.00;;;;radial velocity
+Prox Cen c;http://exoplanet.eu/catalog/proxima_centauri_c/;1;2019;;;;;;;;;;;;calculated temperature 39 K;0.0182;1.48;1894.0;0.00;;;;radial velocity
+alf Cen AB+Prox Cen;http://exoplanet.eu/catalog/alf_cen_b_b/;0;2012;G2V / K1V / M5.5V;1.34;8700.0;23.68;;1;3;1.1;0.934;0.12;;eccentricity_AB = 0.5;;;;;;;;
+HD 40979 BC+Ab;http://exoplanet.eu/catalog/hd_40979_b/;0;2002;F8V / K5 / ?;33.3;6400.0;129.000;;1;3;0.833;0.38;1.1;;Debris disk (>86 AU);;;;;;;;
+HD 40979 b;http://exoplanet.eu/catalog/hd_40979_b/;1;; ;;;;;;;;;;;;3.28;0.83;263.1;0.25;310.7;;;radial velocity
+HIP 65 AbB+C;http://exoplanet.eu/catalog/hip_65a_b/;0;2020;K4V / M7.5 / ?;61.89;4557.0;269.0;;1;3;0.78;0.11;;;;;;;;;;;
+HIP 65 b;http://exoplanet.eu/catalog/hip_65a_b/;1;;;;;;;;;;;;;;3.213;0.01782;0.9810;0.00;;2.0300;77.18;transit
+K2-290 AbcB+C;http://adsabs.harvard.edu/doi/10.1093/mnras/stz139;0;2019;F8 / M / M;275.0;2467.0;113.0;;2;3;1.194;0.368;0.253;;;;;;;;;;
+K2-290 b;http://exoplanet.eu/catalog/k2-290_b/;1;2019;;;;;;;;;;;;;0.0664;0.0923;9.21165;0.00;;0.273;88.14;transit
+K2-290 c;http://exoplanet.eu/catalog/k2-290_c/;1;2019;;;;;;;;;;;;;0.774;0.305;48.36685;0.00;;1.006;89.37;transit
+91 Aqr BC+Ab;http://exoplanet.eu/catalog/91_aqr_b/;0;2003;K0III / K / K;45.5;2250.0;9.0;;1;3;1.4;1.0;1.0;;HD 219449 GJ 893.2;;;;;;;;
+91 Aqr b;http://exoplanet.eu/catalog/91_aqr_b/;1;;;;;;;;;;;;;;3.2;0.7;181.4;0.03;177.3;;;radial velocity
+WASP-108 AbB+C;http://exoplanet.eu/catalog/wasp-108_b/;0;2014;F9 / ? / ?;220.0;2000.0;32.09;;1;3;1.17;0.35;;;wide companion (>2000au) detected by Evans(2018);;;;;;;;
+WASP-108 b;http://exoplanet.eu/catalog/wasp-108_b/;1;2014;;;;;;;;;;;;;1.17;0.0397;2.6755;0.0;;1.215;88.49;transit
+51 Eri Ab + GJ 3305 AB;http://exoplanet.eu/catalog/51_eri_b/;0;2015; F0IV / M3 / M0;29.4;2000.0;6.0;;1;3;1.75;0.67;0.44;;;;;;;;;;
+51 Eri b;http://exoplanet.eu/catalog/51_eri_b/;1;;;;;;;;;;;;;;7;13.2;;;;;;imaging / spectrum
+2M0441+2301;http://www.openexoplanetcatalogue.com/planet/2M%20044144%20b/;0;2010;M4.5 / M7 / M8.5;;1800.0;;;1;3;0.2;0.033;0.018;;maybe lowest-mass quadruple system;;;;;;;;
+2M 044144 b;http://www.openexoplanetcatalogue.com/planet/2M%20044144%20b/;1;;;;;;;;;;;;;;9.8;;;;;;;imaging
+30 Ari BbC+A(AB);http://exoplanet.eu/catalog/30_ari_b_b/;0;2005;F5V / M1V + F5V / ?;53.71;1670.0;22;0.004;1;4;0.93;0.46;;;p_bin2=1.1d;;;;;;;;
+30 Ari b;http://exoplanet.eu/catalog/30_ari_b_b/;1;;;;;;;;;;;;;;0.48;0.044;3.44;0.041;126.9;1.04;;radial velocity
+Kepler 64 b   KIC 4862625 (Aa+Ab)b ;http://exoplanet.eu/catalog/kepler-64_%28ab%29_b/;0;2013;F / M + G / M;1500.0;1000.0;0.17;60.0;1;4;1.5;0.41;0.99;0.51;first quadruple star system;;;;;;;;
+Kepler 64 b ;http://exoplanet.eu/catalog/kepler-64_%28ab%29_b/;1;;;;;;;;;;;;;;0.53;0.63;138.51;0.054;348;0.553;90.0;transit
+16 Cyg Bb+AC;http://exoplanet.eu/catalog/16_cyg_b_b/;0;1996;G1.5V / G2.5 V / M;21.41;860.0;;;1;3;1.07;1.1;0.17;;P1.2=2.2a P3=250000a;;;;;;;;
+16 Cyg b;http://exoplanet.eu/catalog/16_cyg_b_b/;1;;;;;;;;;;;;;;1.68;1.68;799.5;0.689;83.4;;;radial velocity
+HAT-P-57 Ab+BC;http://exoplanet.eu/catalog/hat-p-57_b/;0;2015;A8V / ? / ?;303.0;800.0;68.0;;1;3;1.47;0.61;0.53;;;;;;;;;;
+HAT-P-57 b;http://exoplanet.eu/catalog/hat-p-57_b/;1;;;;;;;;;;;;;;1.85;0.041;2.47;0.000;;;;transit
+HD 178911 Bb+AC;http://exoplanet.eu/catalog/hd_178911_b_b/;0;2001;G5 / G1 / K1;36.73;789.0;;;1;3;1.07;1.1;0.79;;;;;;;;;;
+HD 178911 b;http://exoplanet.eu/catalog/hd_178911_b_b/;1;;;;;;;;;;;;;;6.29;0.32;71.49;0.124;169.8;;;radial velocity
+HD 196050 Ab+BC;http://exoplanet.eu/catalog/hd_196050_b/;0;2002;G3V / M3 / M4;46.9;510.0;20.0;;1;3;1.17;0.29;0.19;;;;;;;;;;
+HD 196050 b;http://exoplanet.eu/catalog/hd_196050_b/;1;;;;;;;;;;;;;;2.83;2.47;1316.24;0.21;223.0;;;radial velocity
+HD 26965 Ab+BC / 40 Eri;http://exoplanet.eu/catalog/hd_26965_b/;0;2018;K0V / DA2.9 / M4.5V;4.98;408.0;34.5;;1;3;0.78;0.575;0.204;;;;;;;;;;
+HD 26965 b;http://exoplanet.eu/catalog/hd_26965_b/;1;;;;;;;;;;;;;;0.02665;0.215;42.378;0.04;;;;radial velocity
+HD 132563 Bb+AC;http://www.openexoplanetcatalogue.com/planet/HD%20132563%20B%20b/;0;2011;G / ? / ?;96.0;400.0;;;1;3;1.01;1.081;0.5;;;;;;;;;;
+HD 132563 b;http://www.openexoplanetcatalogue.com/planet/HD%20132563%20B%20b/;1;;;;;;;;;;;;;;1.49;2.62;1544;0.22;;;;radial velocity
+HD 43691 AbB+C;http://exoplanet.eu/catalog/hd_43691_a_b/;0;2007-2017;G0IV / ? / ?;81.0;362.0;10.0;;1;3;1.38;0.111;0.168;;;;;;;;;;
+HD 43691 b;http://exoplanet.eu/catalog/hd_43691_a_b/;1;2007;;;;;;;;;;;;;2.57;0.238;36.999;0.085;281.20;;;radial velocity
+HD 131399 Ab+BC;http://exoplanet.eu/catalog/hd_131399a_b/;0;2016;A1V / G / K;98.0;349.0;6.96;;1;3;1.82;0.96;0.6;;;;;;;;;;
+HD 131399 b;http://exoplanet.eu/catalog/hd_131399a_b/;1;;;;;;;;;;;;;;4.0;80.0;;0.35;;;46.0;imaging
+Kelt 4 Ab+BC;http://exoplanet.eu/catalog/kelt-4a_b/;0;2013;F / K / K;211.0;328.0;0.044;;1;3;1.2;0.65;0.65;;tidal circularization of the planet;;;;;;;;
+Kelt 4 b;http://exoplanet.eu/catalog/kelt-4a_b/;1;;;;;;;;;;;;;;0.878;0.0432;2.99;0.03;300.0;;;radial velocity
+HD 142245 Ab+BC;http://exoplanet.eu/catalog/hd_142245_a_b/;0;2011-2015;K0 / M1 / M1;109.5;274.0;4.0;;1;3;1.7;0.28;0.28;;;;;;;;;;
+HD 142245 b;http://exoplanet.eu/catalog/hd_142245_a_b/;1;2011;;;;;;;;;;;;;1.9;2.77;1299.0;0.32;234.0;;;radial velocity
+HD 65216 Ab+BC;http://exoplanet.eu/catalog/hd_65216_a_b/;0;2003;G5V / M7V / L2-L3;34.3;251.0;6.0;;2;3;0.92;0.089;0.078;;;;;;;;;;
+HD 65216 b;http://exoplanet.eu/catalog/hd_65216_a_b/;1;2003;;;;;;;;;;;;;1.21;1.37;613.1;0.41;198.0;1.706;83.11;radial velocity
+HD 65216 c;http://exoplanet.eu/catalog/hd_65216_a_c/;1;2011;;;;;;;;;;;;;2.03;5.75;5370.0;0.17;123.0;;;radial velocity
+Gliese 667 Cb-g+AB;http://exoplanet.eu/catalog/gj_667_c_b/;0;2009;K5V / K3V / M1.5V  ;43.03;230.0;;;6;3;0.73;0.69;0.33;;;;;;;;;;
+Gliese 667 b;http://exoplanet.eu/catalog/gj_667_c_b/;1;;;;;;;;;;;;;;0.0176;0.0505;7.2;0.13;5.7;;;radial velocity
+Gliese 667 c;http://exoplanet.eu/catalog/gj_667_c_c/;1;;;;;;;;;;;;;;0.0119;0.125;28.14;0.02;292.0;;;radial velocity
+Gliese 667 d;http://exoplanet.eu/catalog/gj_667_c_d/;1;;;;;;;;;;;;;;0.016;0.276;91.61;0.03;40.1;;;radial velocity
+Gliese 667 e;http://exoplanet.eu/catalog/gj_667_c_e/;1;;;;;;;;;;;;;;0.0085;0.213;62.24;0.02;28.7;;;radial velocity
+Gliese 667 f;http://exoplanet.eu/catalog/gj_667_c_f/;1;;;;;;;;;;;;;;0.0085;0.156;39.03;0.03;103;;;radial velocity
+Gliese 667 g;http://exoplanet.eu/catalog/gj_667_c_g/;1;;;;;;;;;;;;;;0.0145;0.549;256.2;0.08;51.6;;;radial velocity
+HD 185269 Ab+BC;http://exoplanet.eu/catalog/hd_185269_a_b/;0;2006-2019;G0IV / ;47.0;212.0;;;1;3;1.28;0.165;0.154;;;;;;;;;;
+HD 185269 b;http://exoplanet.eu/catalog/hd_185269_a_b/;1;;;;;;;;;;;;;;0.940;0.077;6.838;0.30;173.0;;;radial velocity
+HD 207832 AbB+C+D;http://exoplanet.eu/catalog/hd_207832_a_b/;0;2012;G5V / M6.5 / ? / ?;54.4;100.0;4.0;;2;4;0.95;0.1;0.1;;the most compact RV-planet hostingtriple system.  with the fourth star at 126000 au;;;;;;;;
+HD 207832 b;http://exoplanet.eu/catalog/hd_207832_a_b/;1;;;;;;;;;;;;;;0.56;0.57;161.97;0.13;130.8;;;radial velocity
+HD 207832 c;http://exoplanet.eu/catalog/hd_207832_a_c/;1;;;;;;;;;;;;;;0.73;2.112;1155.7;0.27;121.6;;;radial velocity
+Kepler-444 Ab-f+BC;http://exoplanet.eu/catalog/kepler-444_b/;0;2015;K0V / M / M;36.0;36.7;0.3;;5;3;0.76;0.29;0.25;;very old system formed 11.2 Billion years ago. compact planetary system;;;;;;;;
+Kepler-444 b;http://exoplanet.eu/catalog/kepler-444_b/;1;;;;;;;;;;;;;;;0.042;3.6;0.08;;0.034;88.0;transit
+Kepler-444 c;http://exoplanet.eu/catalog/kepler-444_c/;1;;;;;;;;;;;;;;;0.048;4.55;0.12;;0.044;88.2;transit
+Kepler-444 d;http://exoplanet.eu/catalog/kepler-444_d/;1;;;;;;;;;;;;;;;0.06;6.189;0.18;;0.0473;88.16;transit
+Kepler-444 e;http://exoplanet.eu/catalog/kepler-444_e/;1;;;;;;;;;;;;;;;0.0696;7.743;0.02;;0.0476;89.13;transit
+Kepler-444 f;http://exoplanet.eu/catalog/kepler-444_f/;1;;;;;;;;;;;;;;;0.0811;9.74;0.58;;0.606;87.96;transit
+LTT 1445 Ab+BC/HIP 14101;http://exoplanet.eu/catalog/ltt_1445a_b/;0;2019;M2.5V / M3 / M;6.9;34.0;1.159;;1;3;0.275;0.215;0.161;;;;;;;;;;
+LTT 1445 b;http://exoplanet.eu/catalog/ltt_1445a_b/;1;2019;;;;;;;;;;;;;0.0264;0.03807;5.35882;0.16;222.0;0.1204;89.74;transit
+HW Virgins ABb+C;http://exoplanet.eu/catalog/hw_vir_%28ab%29_b/;0;2008;sdB+M / ?;181.0;4.69;0.004;;1;3;0.485;0.142;0.0186;;P1.2=0.116795d;;;;;;;;
+HW Virgins b;http://exoplanet.eu/catalog/hw_vir_%28ab%29_b/;1;;;;;;;;;;;;;;14.3;4.69;4640.0;0.4;;;;pulsar timing
+HD 126614 Ab+BC;http://www.openexoplanetcatalogue.com/planet/HD%20126614%20A%20b/;0;2010;K0 / MV /M4-M5;72.4;;;;1;3;1.145;0.324;0.16;;Star A high metallicity;;;;;;;;
+HD 126614 b;http://www.openexoplanetcatalogue.com/planet/HD%20126614%20A%20b/;1;;;;;;;;;;;;;;0.38;2.35;1244.0;0.41;;;;radial velocity
+HAT-P-8 Ab+BC;http://exoplanet.eu/catalog/hat-p-8_b/;0;2008;F / M5V / M6V;230.0;;;;1;3;1.192;0.22;0.18;;;;;;;;;;
+HAT-P-8 b;http://exoplanet.eu/catalog/hat-p-8_b/;1;;;;;;;;;;;;;;1.275;0.0439;3.08;0.0;;;;transit
+WASP12-Ab+BC;http://exoplanet.eu/catalog/wasp-12_b/;0;2008;G0 / M3V / M3V;427.0;;;;1;3;1.35;0.38;0.37;;;;;;;;;;
+WASP12-b;http://exoplanet.eu/catalog/wasp-12_b/;1;;;;;;;;;;;;;;1.404;0.0229;1.09;0.0;;;86.0;transit
